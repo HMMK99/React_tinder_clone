@@ -19,3 +19,6 @@ after installing dependencies run the following command</br>
   > <i>'npm run eject'</i></br>
   >>  Removes this tool and copies build dependencies, configuration files
     and scripts into the app directory. If you do this, you can’t go back!</br>
+
+## ICONS
+icons used from: https://v4.mui.com
